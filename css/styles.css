@@ -1,5 +1,5 @@
 * {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
 }
@@ -11,7 +11,7 @@ body {
 }
 
 header, footer {
-  background-color: #2A9FBC;
+  background-color: rgb(12, 56, 248);
   color: white;
   padding: 10px 5px;
 }
@@ -48,6 +48,9 @@ header h1 {
 
 .advanced_btn {
   padding: 10px;
-  color: #1F778D;
+  color: rgb(34, 0, 228);
   border-radius: 10px;
+}
+.credit{
+margin-left: 30%;
 }
